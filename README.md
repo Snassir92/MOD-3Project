@@ -1,4 +1,4 @@
-MOD3- Simple form that allows to add, delete or edit user.
+MOD3- Full CRUD Spring boot app
 
 
 Layout using https://materializecss.com/
